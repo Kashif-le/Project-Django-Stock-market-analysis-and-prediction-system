@@ -1,0 +1,17 @@
+1- C:\Users\Kashif\Desktop\project_django ///go to the environment directory
+2- projectFinal\Scripts\activate.bat //activate the environment
+3- //goto the actual project folder
+4- python manage.py runserver //run project
+
+
+
+
+
+
+deactivate
+
+
+
+py -m venv project_fyp
+
+py -m pip install Django
